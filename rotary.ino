@@ -7,6 +7,7 @@
       
     Author: riverfield techologies inc.
     Modified: 2022/4/3
+	Created Git repository: 2022/4/30
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 byte encoder_a = 2;                     //A相pin2
